@@ -1,3 +1,5 @@
+AOA Sir! I tried my level best but due to some time issue and confusion, there are some errors (2 only) , the rest is in its best state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
